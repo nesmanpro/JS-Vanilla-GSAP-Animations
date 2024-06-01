@@ -97,12 +97,12 @@ a {
 }
 
 .intro__images.initial img:nth-child(1) {
-  top: 59.9vh;
+  top: 49.9vh;
   left: 75.3vw;
 }
 
 .intro__images.initial img:nth-child(2) {
-  top: 43.2vh;
+  top: 45.2vh;
   left: 26.3vw;
 }
 
